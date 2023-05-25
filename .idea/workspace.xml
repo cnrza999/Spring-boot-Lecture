@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db8119a-3079-49e9-ae3b-78e5cd1fcae4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/04-spring-boot-rest-crud/30-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-spring-boot-spring-mvc/01-thymeleafdemo-helloworld/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-spring-boot-spring-mvc/01-thymeleafdemo-helloworld/src/main/resources/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-spring-boot-spring-mvc/01-thymeleafdemo-helloworld/src/main/resources/templates/helloworld.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeDAOJpalmpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Program Files/dev-spring-boot/02-spring-boot-spring-core/09-java-config-bean",
+    "last_opened_file_path": "C:/Program Files/dev-spring-boot",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -56,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683913098519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1684422492880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684422492880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
